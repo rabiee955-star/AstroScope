@@ -1,0 +1,10 @@
+{
+  "name": "AstroScope",
+  "description": "Interactive astronomy dashboard",
+  "stack": [
+    "HTML5",
+    "CSS3",
+    "Vanilla JavaScript"
+  ],
+  "author": "Alireza Rabiei"
+}
